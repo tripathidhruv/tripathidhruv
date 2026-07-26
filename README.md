@@ -13,7 +13,7 @@ I’m currently working on<br><br>Android applications using Android Studio (Lad
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tripathidhruv&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tripathidhruv&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-trophies.devomb.com/?username=tripathidhruv&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
