@@ -1,24 +1,117 @@
-# 💫 About Me:
-I’m currently working on<br><br>Android applications using Android Studio (Ladybug)<br><br>My final-year project GoCampus (College Bus Tracking System)<br><br>Improving problem-solving & real-world app architecture<br><br>👯 I’m looking to collaborate on<br><br>Android app development projects<br><br>Open-source beginner-friendly repositories<br><br>UI/UX improvements for mobile apps<br><br>🤝 I’m looking for help with<br><br>Firebase optimization & real-time location tracking<br><br>Clean architecture (MVVM) in Android<br><br>Writing scalable and maintainable code<br><br>🌱 I’m currently learning<br><br>Advanced Android (Jetpack, ViewModel, LiveData)<br><br>Data Analytics & AI fundamentals<br><br>Git, GitHub workflows, and best practices<br><br>💬 Ask me about<br><br>Android Studio & Java/Kotlin basics<br><br>College projects & app ideas<br><br>Beginner tips for app development<br><br>⚡ Fun fact<br><br>I love turning ideas into working apps and never stop tweaking UI till it feels perfect 😄🔥
+<!--
+    Hey there, I'm Dhruv Tripathi!
+    Happy to see you here exploring my README code.
+    Feel free to fork this and make it your own!
 
+    Connect with me on LinkedIn @dhruv-tripathi91a07a36a :))
+-->
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-oye.itachi-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/oye.itachi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-tripathi-91a07a36a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tripathidhruv2704@gmail.com)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D8ABC&height=120&section=header" alt="header"/>
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=tripathidhruv&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=tripathidhruv&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=tripathidhruv&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=0D8ABC&width=520&lines=Hello%2C+it's+Dhruv+Tripathi;Full-Stack+Software+Engineer;React+%7C+Next.js+%7C+Flutter+%7C+Firebase;BTech+IT+%40+K+K+Wagh+Institute" alt="Full-Stack Software Engineer"/>
+</a>
 
-## 🏆 GitHub Trophies
-![](https://github-trophies.devomb.com/?username=tripathidhruv&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## About Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 🎓 Third-year **BTech Information Technology** student at K K Wagh Institute of Engineering Education & Research, Nashik (Expected CGPA 8.5+)
+- 💼 Currently **Software Development Intern** @ [Fivetrees Technology LLP](https://www.fivetrees.com) — building production features across the full stack
+- 🏆 Winner, **CodeSphere Hackathon** (Government College of Engineering, Jalgaon)
+- 🥈 Top 5 finalist in **4 inter-college hackathons/ideathons**, against 100+ competing teams
+- 🚀 Shipped **10+ end-to-end projects** — web, Android, and Flutter apps — all published on GitHub
+- 📊 Certified **Salesforce AI Specialist** (AI-201: Agentforce Specialist)
+- 🎙️ President, **ITERON** (IT Department Club) · Co-Chair, **Fusion Core Club** — K K Wagh Institute
+- 🌐 Portfolio: [portfolio-kohl-six-47.vercel.app](https://portfolio-kohl-six-47.vercel.app)
 
----
-[![](https://visitcount.itsvg.in/api?id=tripathidhruv&icon=0&color=0)](https://visitcount.itsvg.in)
+## Skill Set
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table>
+<tr>
+<td valign="top" width="25%">
+
+### Languages
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=ts,js,py,java,kotlin,c,cpp&perline=4"/>
+</div>
+
+</td>
+<td valign="top" width="25%">
+
+### Frontend
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,threejs,flutter&perline=4"/>
+</div>
+
+</td>
+<td valign="top" width="25%">
+
+### Backend & Cloud
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=fastapi,nodejs,firebase,mysql,mongodb,sqlite,gcp,vercel&perline=4"/>
+</div>
+
+</td>
+<td valign="top" width="25%">
+
+### Data & Tools
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=powerbi,pandas,opencv,git,github,figma,postman,androidstudio&perline=4"/>
+</div>
+
+</td>
+</tr>
+</table>
+
+## Featured Projects
+
+| Project | Stack | Description |
+|---|---|---|
+| 🤖 [AgentMart](https://agent-mart-five.vercel.app) — AI Agent Marketplace | Next.js, TypeScript, GSAP, Three.js | Built for PCU iDeathon 3.0 – 2K26; animated 3D landing, typed component architecture |
+| 🧠 [MindSense AI](https://github.com/tripathidhruv/mindsenseh) — Mental Wellness Platform | React, FastAPI, Groq LLM, OpenCV | Voice + facial emotion analysis with LLM-generated guidance |
+| 🚌 [GoCampus](https://github.com/tripathidhruv) — Real-Time College Bus Tracking | Flutter, Firebase, Google Maps API | Role-based dashboards with realtime location streaming |
+| 🎭 [Mafia.GG](https://github.com/tripathidhruv/mafia-gg) — Multiplayer Social Deduction Game | React, Firebase, Zustand | Synced room state, role assignment, live voting rounds |
+| 📦 [InVenPro](https://github.com/tripathidhruv/InVenPro) — Inventory Management System | JavaScript, HTML, CSS | Stock tracking with an admin dashboard |
+| 💻 [Portfolio v1](https://tripathidhruv.github.io/portfolio) — Personal Portfolio | HTML, CSS, JavaScript | Responsive site with smooth section transitions |
+
+## Connect with Me
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/dhruv-tripathi91a07a36a" target="_blank"><img src="https://img.shields.io/badge/-Dhruv%20Tripathi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="mailto:tripathidhruv2704@gmail.com"><img src="https://img.shields.io/badge/-tripathidhruv2704@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="https://portfolio-kohl-six-47.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
+</div>
+
+## GitHub Stats
+
+<p align="center">
+    <a href="https://github.com/tripathidhruv">
+        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tripathidhruv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tripathidhruv&layout=compact&theme=tokyonight&hide_border=true"/>
+    </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/tripathidhruv">
+    <img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=tripathidhruv&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true"/>
+  </a>
+</p>
+
+<p align="center">
+   <a href="https://github.com/tripathidhruv">
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=tripathidhruv&theme=tokyonight&hide_border=true"/>
+   </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=tripathidhruv&theme=tokyonight&no-frame=true" alt="tripathidhruv"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=tripathidhruv&style=for-the-badge&color=0D8ABC" alt="profile views"/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D8ABC&height=120&section=footer" alt="footer"/>
+
+<!--
+     Thanks for stopping by! <3
+-->
