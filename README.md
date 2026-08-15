@@ -108,13 +108,6 @@
   </a>
 </p>
 
-### Contribution Graph
-<p align="center">
-  <a href="https://github.com/tripathidhruv">
-    <img width="90%" src="https://ghchart.rshah.org/0D8ABC/tripathidhruv" alt="Dhruv's Github Contribution Graph"/>
-  </a>
-</p>
-
 <img src="https://komarev.com/ghpvc/?username=tripathidhruv&style=for-the-badge&color=0D8ABC" alt="profile views"/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D8ABC&height=120&section=footer" alt="footer"/>
